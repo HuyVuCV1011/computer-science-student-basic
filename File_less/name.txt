@@ -1,0 +1,44 @@
+text file:
+- Only text
+- Not color, edit
+
+.txt .html .css .csv
+
+binary file
+
+.jpg .wav .doc .xls .rar .zip
+
+absolute path /Users/mac/MindX/teaching/Computer science/File_less/data.txt
+
+read /Users/mac/MindX/teaching/Computer science/File_less/name.txt
+--> 3 name
+
+read relative name.txt
+--> 3 name
+
+Difference of absolute and relative
+
+local storage
+cloud
+
+picture?
+pixel
+color
+
+RGB: red green blue
+
+256 256 256
+
+
+Cú pháp open()... close()
+
+biến_file = open('đường_dẫn', 'cách_mở')
+... a
+<các lệnh xử lý> a
+... a
+biến_file.close()
+
+'r' Đọc file (read) Báo lỗi nếu file không tồn tại
+'a' Thêm nội dung (append) Tạo file mới nếu file không tồn tại
+'w' Xóa nội dung và ghi đè nội dung mới (write) Tạo file mới nếu file không tồn tại
+'x' Tạo file mới (exclusive create)

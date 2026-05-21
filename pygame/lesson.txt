@@ -1,0 +1,23 @@
+character (object and sprite)
+win-lose
+content
+
+Logic - init
+room game
+character spawn
+
+pygame
+- Sprite
+- Sound
+- Bg
+- Obj
+  - obj1: code
+  - obj2: code
+code - main
+
+Loop: action
+
+event and action
+event:
+- quit
+- key press

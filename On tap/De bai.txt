@@ -1,0 +1,26 @@
+Viết chương trình tìm tất cả các số chia hết cho 7 nhưng không phải bội số của 5,
+nằm trong đoạn 2000 và 3200 (tính cả 2000 và 3200).
+Các số thu được sẽ được in thành chuỗi trên một dòng, cách nhau bằng dấu phẩy.
+
+range(2000, 3500)
+
+a%b == 0?
+
+if n==0, n==1:
+print(1)
+
+for i in range (2,n+1)
+    giaithua = giaithua * i
+
+print(giai thua)
+
+
+Với số nguyên n nhất định, hãy viết chương trình để tạo ra một dictionary chứa (i, i*i)
+như là số nguyên từ 1 đến n (bao gồm cả 1 và n) sau đó in ra dictionary này.
+
+8
+{1: 1, 2: 4, 3: 9, 4: 16, 5: 25, 6: 36, 7: 49, 8: 64}.
+
+d=dict()
+
+d[i] = i * i
